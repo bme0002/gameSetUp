@@ -1,1 +1,1 @@
-my first big cpp game
+Game Template set up for CPP
